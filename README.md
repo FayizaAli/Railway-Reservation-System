@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040088
+# Name: Fayiza M
+# Date:20/11/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/ecf97bf9-1070-413c-b9f4-52ac532c2c9a" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/195a5b3d-d30c-4b44-8034-1eeb2885ff01" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/14d7708c-e7a0-4baa-812e-566d4eab195c" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/62f8ad16-c46d-4713-9c52-15f273434fe2" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/639cb0ef-1596-4cb2-b1a2-ed37e77a7032" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/8aa3bce9-e56c-4e43-9f39-e378aab8ea04" />
 
 
 
